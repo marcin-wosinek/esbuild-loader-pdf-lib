@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "esbuild-loader": "^2.13.1",
     "webpack": "^5.45.1",
     "webpack-cli": "^4.7.2"
   },
